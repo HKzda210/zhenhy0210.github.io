@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Artificial Intelligence, Jilin University, 2022-2026(expected)
 
-Honors and awards
+Honors&awards
 ======
 * 2023 The Chinese Mathematics Competitions(CMC): 1st Prize in Jilin Province
 * 2023 China Undergraduate Mathematical Contest in Modeling: 2st Prize in Jilin Province
@@ -28,6 +28,6 @@ Skills
 * CET4:525 CET6:471
 * Pycharm, Matlab, VS Code 
   
-Social Practice and Volunteering
+Social Practice&Volunteering
 ======
 * Volunteer hours: 800 hours+
