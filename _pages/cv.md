@@ -28,6 +28,6 @@ Skills
 * CET4:525 CET6:471
 * Pycharm, Matlab, VS Code 
   
-Service and leadership
+Social Practice and Volunteering
 ======
 * Volunteer hours: 800 hours+
