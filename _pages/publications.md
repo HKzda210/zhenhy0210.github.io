@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-...
+I'm studying hard right now...
 
 
 
