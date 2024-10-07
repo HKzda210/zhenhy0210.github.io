@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image.png"
+  avatar           : "image.pdf"
   name             : "Haoyang Zhen"
   pronouns         : # example: "she/her"  
   bio              : "You forget a thousand things everyday, make sure this is one of them"
