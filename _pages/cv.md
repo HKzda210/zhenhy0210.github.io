@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Artificial Intelligence, Jilin University, 2022-2026(expected)
 
-Honors&awards
+Honors&Awards
 ======
 * 2023 The Chinese Mathematics Competitions(CMC): 1st Prize in Jilin Province
 * 2023 China Undergraduate Mathematical Contest in Modeling: 2st Prize in Jilin Province
