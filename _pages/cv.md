@@ -9,8 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Artificial Intelligence, Jilin University, 2022-2026(expected)
 
 
